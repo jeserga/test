@@ -60,7 +60,7 @@ paths:
         required: true
       responses:
         '200':
-          description: Successful operation
+          description: Successful2 operation
           content:
             application/json:
               schema:
