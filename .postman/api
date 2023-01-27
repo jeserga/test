@@ -5,7 +5,6 @@ id = f72dce96-3b09-4f07-8a68-ff24d6577b10
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"16340294-e74ba291-dbc3-4875-a299-569028d4b489","path":"Swagger Petstore - OpenAPI 3.0.json","metaData":{}}
 
 [relations.collections.metaData]
 
